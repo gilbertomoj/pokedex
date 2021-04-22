@@ -111,11 +111,12 @@ export default {
 
 #body{
   align-items: center;
-  align-content: center;
-  
-  width: 100%;
-  margin-left: 3.5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
   background: rgba(249,245,218,255);
+  
 
 }
 

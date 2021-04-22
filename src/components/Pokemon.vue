@@ -74,6 +74,6 @@ import axios from "axios";
 <style>
     #pokemon{
         margin-top: 2%;
-        width: 20rem;
+        width: 25rem;
     }
 </style>
